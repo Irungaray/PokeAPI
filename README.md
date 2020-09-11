@@ -10,6 +10,7 @@ It will create a "build" folder with the bundles.
 Set the homepage on package.json to your repository, then run
 ### npm run deploy
 
-Don't forget to install all the dependencies using ### npm install !
+Don't forget to install all the dependencies using npm install !
+
 
 ## Greetings from Argentina!
